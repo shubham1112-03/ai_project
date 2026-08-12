@@ -1,0 +1,7 @@
+{
+    "name": "Llama",
+    "provider": "Ollama",
+    "size": "8B",
+    "type": "Local LLM",
+    "creation_time": "2024-06-10"
+}

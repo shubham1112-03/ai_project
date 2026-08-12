@@ -1,0 +1,3 @@
+Ollama allows us to run AI models locally.
+LangChain helps us build applications using LLMs.
+Docker packages applications into containers.
